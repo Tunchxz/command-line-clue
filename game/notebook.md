@@ -2,7 +2,7 @@
 
 ## Suspects
 - [ ] The Baker
-- [ ] The Chef
+- [x] The Chef
 - [ ] The Mayor
 
 ## Weapons
