@@ -6,7 +6,7 @@
 - [ ] The Mayor
 
 ## Weapons
-- [ ] Kitchen Knife
+- [x] Kitchen Knife
 - [ ] Walking Stick
 - [x] Wooden Box
 
