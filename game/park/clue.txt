@@ -1,5 +1,0 @@
-Investigation Update:
-
-A security guard mentions hearing noises coming from the gazebo.
-
-Remember: Use 'cd "gazebo"' to follow this lead.

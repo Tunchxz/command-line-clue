@@ -1,14 +1,14 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Banker
-- [ ] The Gardener
-- [ ] The Police Officer
+- [ ] The Baker
+- [ ] The Chef
+- [ ] The Mayor
 
 ## Weapons
-- [ ] Letter Opener
-- [ ] Magnifying Glass
-- [ ] Brass Bell
+- [ ] Kitchen Knife
+- [ ] Walking Stick
+- [x] Wooden Box
 
 ## Notes
 *Use this space to record your findings and deductions...*
